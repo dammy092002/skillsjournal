@@ -1,4 +1,6 @@
-(1) Containers: Docker and Kubernetes
-(2) Public Cloud: AWS, GCP
-(3) Private Cloud: Openstack
-(4) DevOps tools: git, ansible, etc
+### My Technical skills
+
+These are my prominent technical skills
+- Containers: Docker and Kubernetes
+- Public Cloud Platforms: AWS, GCP, Openstack
+- DevOps tools: git, ansible, etc
